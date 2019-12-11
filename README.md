@@ -1,4 +1,4 @@
-### Instructions for using
+### Instructions for using the Genetic Program
 
 ## Data should have the following columns in this order
 <ol>
