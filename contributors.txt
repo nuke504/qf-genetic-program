@@ -1,5 +1,0 @@
-Loh Zheng Yi
-Matthew Soh
-Dylan Chan
-Patrik Kohary
-Function sliding_window_view from https://gist.github.com/Fnjn/b061b28c05b5b0e768c60964d2cafa8d
