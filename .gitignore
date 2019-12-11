@@ -1,0 +1,10 @@
+# Ignore the following files
+logs
+.DS_Store
+png
+pngs
+__pycache__
+.pyc
+.pk
+.ipynb
+best_chromosomes
