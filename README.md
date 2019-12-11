@@ -1,5 +1,7 @@
 ### Instructions for using the Genetic Program
 
+Place all data files inside a folder called 'data' within the same directory
+
 ## Data should have the following columns in this order
 <ol>
 <li>DateTime</li>
